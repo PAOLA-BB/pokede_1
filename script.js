@@ -1,3 +1,5 @@
+
+
 document.addEventListener('DOMContentLoaded', function () {
     const pokedexContainer = document.getElementById('pokedex');
 
